@@ -30,8 +30,7 @@ https://esri-es.github.io/
 
 
 ##Servicios de ArcGIS Server que se pueden usar a modo de demo:
-http://sampleserver6.arcgisonline.com/arcgis/rest/services  
-http://sampleserver1.arcgisonline.com/arcgis/rest/services  
+http://sampleserver6.arcgisonline.com/arcgis/rest/services    
 http://sampleserver3.arcgisonline.com/arcgis/rest/services  
 http://services.arcgisonline.com/ArcGIS/rest/services/  
 
@@ -50,4 +49,17 @@ http://sampleserver6.arcgisonline.com/arcgis/rest/services/911CallsHotspot/MapSe
 
 ###SERVICIO DE ENTIDADES (MapServer/* o FeatureServer)
 http://sampleserver6.arcgisonline.com/arcgis/rest/services/Military/FeatureServer  
-http://sampleserver6.arcgisonline.com/arcgis/rest/services/USA/MapServer/0  
+http://sampleserver6.arcgisonline.com/arcgis/rest/services/USA/MapServer/0 
+
+###SERVICIOS DE RUTAS (NAServer)  
+http://sampleserver3.arcgisonline.com/ArcGIS/rest/services/Network/USA/NAServer  
+http://sampleserver6.arcgisonline.com/arcgis/rest/services/NetworkAnalysis  
+http://sampleserver6.arcgisonline.com/arcgis/rest/services/NetworkAnalysis/SanDiego/NAServer
+
+###SERVICIOS DE GEOPROCESAMIENTO (GPServer)  
+http://sampleserver6.arcgisonline.com/arcgis/rest/services/Elevation/ESRI_Elevation_World/GPServer/Viewshed
+
+###SERVICIOS DE IMÁGENES (ImageServer)
+http://sampleserver6.arcgisonline.com/arcgis/rest/services/Oblique/WU_Oblique/ImageServer  
+http://sampleserver6.arcgisonline.com/arcgis/rest/services/Oblique/WU_Ortho/ImageServer  
+
