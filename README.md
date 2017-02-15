@@ -20,8 +20,9 @@ Enlaces de interés para Desarrolladores de JavaScript de ArcGIS
 * [Documentación de Web AppBuilder](https://developers.arcgis.com/web-appbuilder/) - ([Web AppBuilder en awesome-arcgis](https://hhkaos.github.io/awesome-arcgis/front-end/technologies/dojo/web-appbuilder/))
 * [Herramienta de ayuda para creación de simbología con el API de JS de ArcGIS](https://developers.arcgis.com/javascript/3/samples/playground/index.html)
 * [Recopilación de enlaces a recursos](https://hhkaos.github.io/awesome-arcgis/front-end/technologies/)
- 
+
 ##Cursos Online
+
 * [Curso de HTML 5, CSS3 y JS](http://www.cursohtml5desdecero.com/)
 * [Seminario de Dojo](https://mundogister.gitbooks.io/seminario_dojo/content/)
 * [Cursos gratis de programación](http://desarrolladores.esri.es/cursos-y-libros-gratuitos-de-programacion/)
