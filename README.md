@@ -53,13 +53,13 @@ ___Single Fused Map Cache: true___
 
 ###SERVICIOS DE RUTAS (NAServer)  
 * ```http://sampleserver3.arcgisonline.com/ArcGIS/rest/services/Network/USA/NAServer```
-http://sampleserver6.arcgisonline.com/arcgis/rest/services/NetworkAnalysis  
-http://sampleserver6.arcgisonline.com/arcgis/rest/services/NetworkAnalysis/SanDiego/NAServer
+* ```http://sampleserver6.arcgisonline.com/arcgis/rest/services/NetworkAnalysis```
+* ```http://sampleserver6.arcgisonline.com/arcgis/rest/services/NetworkAnalysis/SanDiego/NAServer```
 
 ###SERVICIOS DE GEOPROCESAMIENTO (GPServer)  
-http://sampleserver6.arcgisonline.com/arcgis/rest/services/Elevation/ESRI_Elevation_World/GPServer/Viewshed
+* ```http://sampleserver6.arcgisonline.com/arcgis/rest/services/Elevation/ESRI_Elevation_World/GPServer/Viewshed```
 
 ###SERVICIOS DE IMÁGENES (ImageServer)
-http://sampleserver6.arcgisonline.com/arcgis/rest/services/Oblique/WU_Oblique/ImageServer  
-http://sampleserver6.arcgisonline.com/arcgis/rest/services/Oblique/WU_Ortho/ImageServer  
+* ```http://sampleserver6.arcgisonline.com/arcgis/rest/services/Oblique/WU_Oblique/ImageServer```
+* ```http://sampleserver6.arcgisonline.com/arcgis/rest/services/Oblique/WU_Ortho/ImageServer```
 
